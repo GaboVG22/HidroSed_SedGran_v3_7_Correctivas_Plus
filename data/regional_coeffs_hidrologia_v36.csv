@@ -1,0 +1,4 @@
+zona,metodo,alpha,exp_area,exp_p24,exp_slope,observacion,coef,exp_pma
+Coquimbo_pluvial_base,DGA_AC_pluvial,2.14,0.62,1.12,0.08,Coeficiente base editable; ajustar con zona homogénea/manual.,,
+Coquimbo_pluvial_base,Verni_King_modificado,,0.88,1.24,0.15,Paramétrico auditable; reemplazar por coeficientes oficiales si aplica.,0.00618,
+Coquimbo_nival_base,DGA_AC_deshielo,,0.85,,,Referencia nival; validar rango 50–6000 km² y T≤100.,0.012,0.7

@@ -1,0 +1,10 @@
+dataset,archivo,archivo_app,miembro,registros,estaciones,tamano_zip_mb
+precipitacion_mensual,prep_mensuales_historico_4.zip (1),data/preloaded/precipitacion_mensual.zip,prep_mensuales_historico_4.txt,37613,116,0.154
+precipitacion_diaria,prep_diarias_historico_4.zip (1),data/preloaded/precipitacion_diaria.zip,prep_diarias_historico_4.txt,1139578,116,2.769
+precipitacion_max_24h,prep_maximas_anuales24_historico_4.zip (1),data/preloaded/precipitacion_max_24h.zip,prep_maximas_anuales24_historico_4.txt,3420,116,0.021
+caudal_diario,caudal_diario_historico_4.zip (1),data/preloaded/caudal_diario.zip,caudal_diario_historico_4.txt,850393,82,3.831
+caudal_medio_mensual,caudal_medio_mensual_historico_4.zip (1),data/preloaded/caudal_medio_mensual.zip,caudal_medio_mensual_historico_4.txt,29277,82,0.174
+sedimento_rutinario,sedimentos_muestreo_rutinario_historico_4.zip,data/preloaded/sedimento_rutinario.zip,sedimentos_muestreo_rutinario_historico_4.txt,122045,15,0.723
+sedimento_integrado,sedimentos_muestreo_integrado_historico_4.zip,data/preloaded/sedimento_integrado.zip,sedimentos_muestreo_integrado_historico_4.txt,2826,8,0.02
+temperatura_media_mensual,temp_medias_mensuales_historico_4.zip (1),data/preloaded/temperatura_media_mensual.zip,temp_medias_mensuales_historico_4.txt,8642,33,0.04
+temperatura_max_diaria,tmax_diarias_historico_4.zip,data/preloaded/temperatura_max_diaria.zip,tmax_diarias_historico_4.txt,259826,33,1.127

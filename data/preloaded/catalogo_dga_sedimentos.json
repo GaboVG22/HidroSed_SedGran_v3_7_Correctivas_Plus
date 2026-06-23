@@ -1,0 +1,595 @@
+[
+  {
+    "dataset": "precipitacion_mensual",
+    "archivo": "prep_mensuales_historico_4.zip (1)",
+    "archivo_app": "data/preloaded/precipitacion_mensual.zip",
+    "miembro": "prep_mensuales_historico_4.txt",
+    "registros": 37613,
+    "estaciones": 116,
+    "columnas": [
+      "CODIGO ESTACION",
+      "NOMBRE ESTACION",
+      "COD_REGION",
+      "REGION",
+      "COMUNA",
+      "LAT",
+      "LONG",
+      "UTM_ESTE",
+      "UTM_NORTE",
+      "ALTITUD",
+      "ANIO",
+      "MES",
+      "PREP_MENSUAL",
+      "Unidad"
+    ],
+    "tamano_zip_mb": 0.154,
+    "estaciones_muestra": [
+      [
+        "4000001",
+        "PLAYA LOS CHOROS"
+      ],
+      [
+        "4120001",
+        "EL TRAPICHE"
+      ],
+      [
+        "4120024",
+        "PUEBLO LOS CHOROS"
+      ],
+      [
+        "4300001",
+        "CERRO OLIVARES"
+      ],
+      [
+        "4300004",
+        "GLACIAR TAPADO EN LOS CORRALES"
+      ],
+      [
+        "4301001",
+        "RIO LA LAGUNA ANTES JUNTA RIO DEL TORO"
+      ],
+      [
+        "4301005",
+        "LA LAGUNA EMBALSE"
+      ],
+      [
+        "4302001",
+        "RIO TORO ANTES JUNTA RIO LA LAGUNA"
+      ],
+      [
+        "4302014",
+        "JUNTAS"
+      ],
+      [
+        "4302016",
+        "EL INDIO"
+      ]
+    ]
+  },
+  {
+    "dataset": "precipitacion_diaria",
+    "archivo": "prep_diarias_historico_4.zip (1)",
+    "archivo_app": "data/preloaded/precipitacion_diaria.zip",
+    "miembro": "prep_diarias_historico_4.txt",
+    "registros": 1139578,
+    "estaciones": 116,
+    "columnas": [
+      "CODIGO ESTACION",
+      "NOMBRE ESTACION",
+      "COD_REGION",
+      "REGION",
+      "COMUNA",
+      "LAT",
+      "LONG",
+      "UTM_ESTE",
+      "UTM_NORTE",
+      "ALTITUD",
+      "FECHA",
+      "Precipitación_diaria",
+      "Unidad"
+    ],
+    "tamano_zip_mb": 2.769,
+    "estaciones_muestra": [
+      [
+        "4000001",
+        "PLAYA LOS CHOROS"
+      ],
+      [
+        "4120001",
+        "EL TRAPICHE"
+      ],
+      [
+        "4120024",
+        "PUEBLO LOS CHOROS"
+      ],
+      [
+        "4300001",
+        "CERRO OLIVARES"
+      ],
+      [
+        "4300004",
+        "GLACIAR TAPADO EN LOS CORRALES"
+      ],
+      [
+        "4301001",
+        "RIO LA LAGUNA ANTES JUNTA RIO DEL TORO"
+      ],
+      [
+        "4301005",
+        "LA LAGUNA EMBALSE"
+      ],
+      [
+        "4302001",
+        "RIO TORO ANTES JUNTA RIO LA LAGUNA"
+      ],
+      [
+        "4302014",
+        "JUNTAS"
+      ],
+      [
+        "4302016",
+        "EL INDIO"
+      ]
+    ]
+  },
+  {
+    "dataset": "precipitacion_max_24h",
+    "archivo": "prep_maximas_anuales24_historico_4.zip (1)",
+    "archivo_app": "data/preloaded/precipitacion_max_24h.zip",
+    "miembro": "prep_maximas_anuales24_historico_4.txt",
+    "registros": 3420,
+    "estaciones": 116,
+    "columnas": [
+      "CODIGO ESTACION",
+      "NOMBRE ESTACION",
+      "COD_REGION",
+      "REGION",
+      "COMUNA",
+      "LAT",
+      "LONG",
+      "UTM_ESTE",
+      "UTM_NORTE",
+      "ALTITUD",
+      "ANIO",
+      "Precipitación_max_anual_24horas",
+      "Unidad"
+    ],
+    "tamano_zip_mb": 0.021,
+    "estaciones_muestra": [
+      [
+        "4000001",
+        "PLAYA LOS CHOROS"
+      ],
+      [
+        "4120001",
+        "EL TRAPICHE"
+      ],
+      [
+        "4120024",
+        "PUEBLO LOS CHOROS"
+      ],
+      [
+        "4300001",
+        "CERRO OLIVARES"
+      ],
+      [
+        "4300004",
+        "GLACIAR TAPADO EN LOS CORRALES"
+      ],
+      [
+        "4301001",
+        "RIO LA LAGUNA ANTES JUNTA RIO DEL TORO"
+      ],
+      [
+        "4301005",
+        "LA LAGUNA EMBALSE"
+      ],
+      [
+        "4302001",
+        "RIO TORO ANTES JUNTA RIO LA LAGUNA"
+      ],
+      [
+        "4302014",
+        "JUNTAS"
+      ],
+      [
+        "4302016",
+        "EL INDIO"
+      ]
+    ]
+  },
+  {
+    "dataset": "caudal_diario",
+    "archivo": "caudal_diario_historico_4.zip (1)",
+    "archivo_app": "data/preloaded/caudal_diario.zip",
+    "miembro": "caudal_diario_historico_4.txt",
+    "registros": 850393,
+    "estaciones": 82,
+    "columnas": [
+      "CODIGO ESTACION",
+      "NOMBRE ESTACION",
+      "COD_REGION",
+      "REGION",
+      "COMUNA",
+      "LAT",
+      "LONG",
+      "UTM_ESTE",
+      "UTM_NORTE",
+      "ALTITUD",
+      "FECHA",
+      "Caudal_diario",
+      "Unidad"
+    ],
+    "tamano_zip_mb": 3.831,
+    "estaciones_muestra": [
+      [
+        "4301001",
+        "RIO LA LAGUNA ANTES JUNTA RIO DEL TORO"
+      ],
+      [
+        "4301002",
+        "RIO LA LAGUNA EN SALIDA EMBALSE LA LAGUNA"
+      ],
+      [
+        "4302001",
+        "RIO TORO ANTES JUNTA RIO LA LAGUNA"
+      ],
+      [
+        "4302003",
+        "DREN G TRANQUE EL INDIO (2-D DRENES)"
+      ],
+      [
+        "4304002",
+        "RIO INCAGUAZ ANTES JUNTA RIO TURBIO"
+      ],
+      [
+        "4306001",
+        "RIO TURBIO EN HUANTA"
+      ],
+      [
+        "4308001",
+        "RIO TURBIO EN VARILLAR"
+      ],
+      [
+        "4311001",
+        "ESTERO DERECHO EN ALCOHUAZ"
+      ],
+      [
+        "4313001",
+        "RIO COCHIGUAZ EN EL PEÑON"
+      ],
+      [
+        "4314001",
+        "RIO CLARO EN MONTEGRANDE"
+      ]
+    ]
+  },
+  {
+    "dataset": "caudal_medio_mensual",
+    "archivo": "caudal_medio_mensual_historico_4.zip (1)",
+    "archivo_app": "data/preloaded/caudal_medio_mensual.zip",
+    "miembro": "caudal_medio_mensual_historico_4.txt",
+    "registros": 29277,
+    "estaciones": 82,
+    "columnas": [
+      "CODIGO ESTACION",
+      "NOMBRE ESTACION",
+      "COD_REGION",
+      "REGION",
+      "COMUNA",
+      "LAT",
+      "LONG",
+      "UTM_ESTE",
+      "UTM_NORTE",
+      "ALTITUD",
+      "FECHA",
+      "Año",
+      "Mes",
+      "Caudal_Medio_mensual",
+      "Unidad"
+    ],
+    "tamano_zip_mb": 0.174,
+    "estaciones_muestra": [
+      [
+        "4301001",
+        "RIO LA LAGUNA ANTES JUNTA RIO DEL TORO"
+      ],
+      [
+        "4301002",
+        "RIO LA LAGUNA EN SALIDA EMBALSE LA LAGUNA"
+      ],
+      [
+        "4302001",
+        "RIO TORO ANTES JUNTA RIO LA LAGUNA"
+      ],
+      [
+        "4302003",
+        "DREN G TRANQUE EL INDIO (2-D DRENES)"
+      ],
+      [
+        "4304002",
+        "RIO INCAGUAZ ANTES JUNTA RIO TURBIO"
+      ],
+      [
+        "4306001",
+        "RIO TURBIO EN HUANTA"
+      ],
+      [
+        "4308001",
+        "RIO TURBIO EN VARILLAR"
+      ],
+      [
+        "4311001",
+        "ESTERO DERECHO EN ALCOHUAZ"
+      ],
+      [
+        "4313001",
+        "RIO COCHIGUAZ EN EL PEÑON"
+      ],
+      [
+        "4314001",
+        "RIO CLARO EN MONTEGRANDE"
+      ]
+    ]
+  },
+  {
+    "dataset": "sedimento_rutinario",
+    "archivo": "sedimentos_muestreo_rutinario_historico_4.zip",
+    "archivo_app": "data/preloaded/sedimento_rutinario.zip",
+    "miembro": "sedimentos_muestreo_rutinario_historico_4.txt",
+    "registros": 122045,
+    "estaciones": 15,
+    "columnas": [
+      "CODIGO ESTACION",
+      "NOMBRE ESTACION",
+      "COD_REGION",
+      "REGION",
+      "COMUNA",
+      "LAT",
+      "LONG",
+      "UTM_ESTE",
+      "UTM_NORTE",
+      "ALTITUD",
+      "Día",
+      "Mes",
+      "Año",
+      "Hora",
+      "Concentración",
+      "Unidad"
+    ],
+    "tamano_zip_mb": 0.723,
+    "estaciones_muestra": [
+      [
+        "4301002",
+        "RIO LA LAGUNA EN SALIDA EMBALSE LA LAGUNA"
+      ],
+      [
+        "4306001",
+        "RIO TURBIO EN HUANTA"
+      ],
+      [
+        "4308001",
+        "RIO TURBIO EN VARILLAR"
+      ],
+      [
+        "4314001",
+        "RIO CLARO EN MONTEGRANDE"
+      ],
+      [
+        "4320001",
+        "RIO ELQUI EN ALGARROBAL"
+      ],
+      [
+        "4323002",
+        "RIO ELQUI EN PUCLARO"
+      ],
+      [
+        "4503001",
+        "RIO HURTADO EN ANGOSTURA DE PANGUE"
+      ],
+      [
+        "4506002",
+        "RIO HURTADO EN ENTRADA EMBALSE RECOLETA"
+      ],
+      [
+        "4523002",
+        "RIO GRANDE EN PUNTILLA SAN JUAN"
+      ],
+      [
+        "4531002",
+        "RIO COGOTI ENTRADA EMBALSE COGOTI"
+      ]
+    ]
+  },
+  {
+    "dataset": "sedimento_integrado",
+    "archivo": "sedimentos_muestreo_integrado_historico_4.zip",
+    "archivo_app": "data/preloaded/sedimento_integrado.zip",
+    "miembro": "sedimentos_muestreo_integrado_historico_4.txt",
+    "registros": 2826,
+    "estaciones": 8,
+    "columnas": [
+      "CODIGO ESTACION",
+      "NOMBRE ESTACION",
+      "COD_REGION",
+      "REGION",
+      "COMUNA",
+      "LAT",
+      "LONG",
+      "UTM_ESTE",
+      "UTM_NORTE",
+      "ALTITUD",
+      "Fecha",
+      "Concentración_Ponderada_Diaria",
+      "Unidad"
+    ],
+    "tamano_zip_mb": 0.02,
+    "estaciones_muestra": [
+      [
+        "4301002",
+        "RIO LA LAGUNA EN SALIDA EMBALSE LA LAGUNA"
+      ],
+      [
+        "4308001",
+        "RIO TURBIO EN VARILLAR"
+      ],
+      [
+        "4320001",
+        "RIO ELQUI EN ALGARROBAL"
+      ],
+      [
+        "4503001",
+        "RIO HURTADO EN ANGOSTURA DE PANGUE"
+      ],
+      [
+        "4523002",
+        "RIO GRANDE EN PUNTILLA SAN JUAN"
+      ],
+      [
+        "4531002",
+        "RIO COGOTI ENTRADA EMBALSE COGOTI"
+      ],
+      [
+        "4703002",
+        "RIO CHOAPA EN CUNCUMEN"
+      ],
+      [
+        "4721001",
+        "RIO ILLAPEL EN LAS BURRAS"
+      ]
+    ]
+  },
+  {
+    "dataset": "temperatura_media_mensual",
+    "archivo": "temp_medias_mensuales_historico_4.zip (1)",
+    "archivo_app": "data/preloaded/temperatura_media_mensual.zip",
+    "miembro": "temp_medias_mensuales_historico_4.txt",
+    "registros": 8642,
+    "estaciones": 33,
+    "columnas": [
+      "CODIGO ESTACION",
+      "NOMBRE ESTACION",
+      "COD_REGION",
+      "REGION",
+      "COMUNA",
+      "LAT",
+      "LONG",
+      "UTM_ESTE",
+      "UTM_NORTE",
+      "ALTITUD",
+      "ANIO",
+      "MES",
+      "TEMP_MEDIA_MENSUAL",
+      "Unidad"
+    ],
+    "tamano_zip_mb": 0.04,
+    "estaciones_muestra": [
+      [
+        "4120001",
+        "EL TRAPICHE"
+      ],
+      [
+        "4301005",
+        "LA LAGUNA EMBALSE"
+      ],
+      [
+        "4302001",
+        "RIO TORO ANTES JUNTA RIO LA LAGUNA"
+      ],
+      [
+        "4302014",
+        "JUNTAS"
+      ],
+      [
+        "4308001",
+        "RIO TURBIO EN VARILLAR"
+      ],
+      [
+        "4308003",
+        "RIVADAVIA"
+      ],
+      [
+        "4311005",
+        "LA ORTIGA"
+      ],
+      [
+        "4321001",
+        "PUCLARO EMBALSE"
+      ],
+      [
+        "4323007",
+        "ALMENDRAL"
+      ],
+      [
+        "4335002",
+        "LA SERENA (ESCUELA AGRICOLA)"
+      ]
+    ]
+  },
+  {
+    "dataset": "temperatura_max_diaria",
+    "archivo": "tmax_diarias_historico_4.zip",
+    "archivo_app": "data/preloaded/temperatura_max_diaria.zip",
+    "miembro": "tmax_diarias_historico_4.txt",
+    "registros": 259826,
+    "estaciones": 33,
+    "columnas": [
+      "CODIGO ESTACION",
+      "NOMBRE ESTACION",
+      "COD_REGION",
+      "REGION",
+      "COMUNA",
+      "LAT",
+      "LONG",
+      "UTM_ESTE",
+      "UTM_NORTE",
+      "ALTITUD",
+      "FECHA",
+      "TMAX",
+      "Unidad"
+    ],
+    "tamano_zip_mb": 1.127,
+    "estaciones_muestra": [
+      [
+        "4120001",
+        "EL TRAPICHE"
+      ],
+      [
+        "4301005",
+        "LA LAGUNA EMBALSE"
+      ],
+      [
+        "4302001",
+        "RIO TORO ANTES JUNTA RIO LA LAGUNA"
+      ],
+      [
+        "4302014",
+        "JUNTAS"
+      ],
+      [
+        "4308001",
+        "RIO TURBIO EN VARILLAR"
+      ],
+      [
+        "4308003",
+        "RIVADAVIA"
+      ],
+      [
+        "4311005",
+        "LA ORTIGA"
+      ],
+      [
+        "4321001",
+        "PUCLARO EMBALSE"
+      ],
+      [
+        "4323007",
+        "ALMENDRAL"
+      ],
+      [
+        "4335002",
+        "LA SERENA (ESCUELA AGRICOLA)"
+      ]
+    ]
+  }
+]
